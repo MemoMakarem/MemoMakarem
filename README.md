@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed (Memo) 👋
+# Hi there, I'm Mohamed Aboelmakarem (Memo) 👋
 
 🎓 **Computer Science Student** @Zagazig University  
 🚀 Passionate about **Data Engineering**, **Data Analytics**, and **Ai Automation**.  
