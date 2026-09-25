@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed (Memo) 👋
 
 🎓 **Computer Science Student** @Zagazig University  
-🚀 Passionate about **Data Engineering**, **Data Analytics**, **Ai Automation** and **Ui\Ux Design**.  
+🚀 Passionate about **Data Engineering**, **Data Analytics**, and **Ai Automation** .  
 🎨 UI/UX Enthusiast.
 
 ---
