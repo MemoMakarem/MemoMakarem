@@ -2,10 +2,7 @@
 
 🎓 **Computer Science Student** @Zagazig University  
 🚀 Passionate about **Data Engineering**, **Data Analytics**, and **Ai Automation**.  
-🎨 UI/UX Enthusiast **Figma**
-
-<br><br>---<br><br>📫 **Connect with me:**<br>- [LinkedIn](https://www.linkedin.com/in/mohamed-aboelmakarem-3846a3392?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br><br>
-
+🎨 UI/UX Enthusiast 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CGBzmXBHF/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-aboelmakarem-3846a3392?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
