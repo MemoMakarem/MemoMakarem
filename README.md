@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed (Memo) 👋
 
 🎓 **Computer Science Student** @ Zagazig University  
-🚀 Passionate about **Data Engineering**, **Data Analytics**, and **Automation**.  
+🚀 Passionate about **Data Engineering**, **Data Analytics**, and **Ui\Ux Designer**.  
 🎨 UI/UX Enthusiast.
 
 ---
@@ -28,5 +28,5 @@
 ---
 
 📫 **Connect with me:**
-- [LinkedIn](https://linkedin.com)
--
+- [LinkedIn](https://www.linkedin.com/in/mohamed-aboelmakarem-3846a3392?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
